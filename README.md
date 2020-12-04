@@ -1,5 +1,5 @@
 # FashionStore
-Simple, clean and minimalistic - Fashion Website
+Simple, clean and minimalist - Fashion Website
 
 ## Screenshots
 ### HOME
